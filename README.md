@@ -1,5 +1,5 @@
 # EBAC - SQL
-Curso em andamento - SQL - Do Basico ao Avançado
+SQL - Do Basico ao Avançado
 
 Manipulação de dados com SQL
 
